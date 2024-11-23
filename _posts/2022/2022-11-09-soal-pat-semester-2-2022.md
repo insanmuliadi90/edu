@@ -75,3 +75,5 @@ Berikut link download Soal UKK PAT kelas 7 K13 SMP/Mts dan Kunci Jawaban Tahun 2
 Berikut link download Soal UKK PAT kelas 8 K13 SMP/Mts dan Kunci Jawaban Tahun 2021, (LIHAT SOAL)
 
 tahun 2022 Demikianlah informasi yang dapat guru-id bagikan, semoga bermanfaat bagi guru yang mengajar pada jenjang Sekolah dasar. Jika ada yang ingin ditanyakan terkait topik postingan bisa menghubungi saya melalui laman kontak.
+
+enjoy
