@@ -18,7 +18,7 @@
 		  {% if include.type == "post" %}
 	<h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>	
           <div class="post-meta"><span class="postdate">Terbit pada {{ page.date | date: "%B %-d, %Y" }}</span>	{% assign read_time = page.content | number_of_words | divided_by: 200 %}
-	{% if read_time > 0 %}- diperbaharui pada {{ post.last_modified_at }} - <span class="readtime">Lama baca: {{ read_time }} Menit</span>
+	{% if read_time > 0 %}- diperbaharui pada {% last_modified_at %} - <span class="readtime">Lama baca: {{ read_time }} Menit</span>
 	{% endif %}
           </div>
 		  {% endif %}
